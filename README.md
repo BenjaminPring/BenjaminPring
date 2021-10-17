@@ -1,16 +1,21 @@
-### Hi there 👋
+### Nice to meet you! 👋
 
-<!--
-**BenjaminPring/BenjaminPring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You've found my profile. In short, I'm a frontend / JavaScript developer from Berlin, Germany. I work for Aida and GOP(https://variete.de). 
 
-Here are some ideas to get you started:
+Weapons of choice include but are not limited to:
+- React 💚
+- Next 💙
+- Node 💛
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Feel free to [reach out to me](mailto:benpring@hotmail.com) for help, collabs or side hustles.
+
+✨🚀✨👨🏻‍🚀✨🖖✨
+
+---
+
+> If you remember me, then I don't care if everyone else forgets.
+
+— Haruki Murakami
+
+⭐️ From [BenjaminPring](https://github.com/BenjaminPring)
